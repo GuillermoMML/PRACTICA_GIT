@@ -1,1 +1,2 @@
-“Chacon, S. and Straub, B. Pro Git. Apress.”
+acon, S. and Straub, B. Pro Git. Apress.”
+Ryan Hodson. Ry's Git Tutotail. Smashwords (2014)
